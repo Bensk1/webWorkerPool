@@ -1,4 +1,4 @@
-webWorkerPool
+webWorkerPool.js
 =============
 
 webWorkerPool.js a rudimentary implementation of a web worker pool (thread pool) and an easy way to execute your functions in a multithreaded manner
